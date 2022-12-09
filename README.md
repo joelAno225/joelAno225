@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @joelAno225
-- 👀 I’m interested in to java coding ,machine learning and smart contract
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on how to build smart contract 
+- Hello, je suis Joël Ano. Je suis un passionné de coding, d'IA et de technologie Blockchain. J'ai réussi à obtenir une certification Binance Academy, ce qui prouve mon expertise dans ce domaine. Je suis également très intéressé par les dernières innovations technologiques et j'aime partager mes connaissances avec les autres.
 - 📫 How to reach me(https://www.linkedin.com/in/joel-ano-89ba45222/)
 
 <!---
